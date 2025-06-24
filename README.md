@@ -9,3 +9,6 @@ Extracted intermediate features (BERT [CLS] tokens, ResNet features) and fused t
 
 Evaluation:
 Used TensorBoard to track training loss, AUROC, and performance. Visualized confusion matrices and ROC curves. Final analysis included comparison of model types and explanations for performance differences.
+
+
+dataset can be access through kaggle; https://www.kaggle.com/datasets/abdkhan567/meme-dataset/settings
